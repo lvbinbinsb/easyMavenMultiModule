@@ -1,0 +1,2 @@
+# easyMavenMultiModule
+简单的Maven多Module模块的第一次使用  以及简单的Angular的Demo
